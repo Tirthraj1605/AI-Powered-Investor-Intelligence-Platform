@@ -91,7 +91,11 @@ python app.py
 * Production-Grade Modular Architecture
 
 ---
+## Project Diagram
 
+[![Architecture diagram of tirthraj1605/ai-powered-investor-intelligence-platform](https://gitdiagram.com/tirthraj1605/ai-powered-investor-intelligence-platform/diagram.png)](https://gitdiagram.com/tirthraj1605/ai-powered-investor-intelligence-platform?utm_source=readme&utm_medium=picture)
+
+---
 ## Technology Stack
 
 ### Backend
